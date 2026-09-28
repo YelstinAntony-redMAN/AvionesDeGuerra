@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Juego_Basico_Pinto/1.0.0": {
+        "runtime": {
+          "Juego_Basico_Pinto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Juego_Basico_Pinto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.exe
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.deps.json
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.runtimeconfig.json
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.dll
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.pdb
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.Juego_Basico_Pinto.resources
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.csproj.GenerateResource.cache
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.AssemblyInfoInputs.cache
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.AssemblyInfo.cs
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.csproj.CoreCompileInputs.cache
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.dll
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\refint\Juego_Basico_Pinto.dll
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.pdb
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.genruntimeconfig.cache
+E:\UNAJ_CICLO_VIII\Calidad de Software\UNIDAD I\JUEGO\Juego_Basico_Pinto\obj\Debug\net10.0-windows\ref\Juego_Basico_Pinto.dll
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.exe
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.deps.json
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.runtimeconfig.json
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.dll
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\bin\Debug\net10.0-windows\Juego_Basico_Pinto.pdb
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.Juego_Basico_Pinto.resources
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.csproj.GenerateResource.cache
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.AssemblyInfoInputs.cache
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.AssemblyInfo.cs
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.csproj.CoreCompileInputs.cache
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.dll
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\refint\Juego_Basico_Pinto.dll
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.pdb
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\Juego_Basico_Pinto.genruntimeconfig.cache
+C:\Users\PC29\Downloads\Juego_Basico_Pinto\Juego_Basico_Pinto\obj\Debug\net10.0-windows\ref\Juego_Basico_Pinto.dll
